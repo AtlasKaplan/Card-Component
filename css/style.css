@@ -1,0 +1,139 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.insights {
+  color: hsl(277, 64%, 61%);
+}
+
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+}
+
+.text-column {
+  background-color: hsl(244, 38%, 16%);
+  height: 340px;
+  width: 440px;
+  margin-left: auto;
+  border-radius: 5px 0 0 5px;
+}
+
+.foto-column {
+  height: 340px;
+  width: 440px;
+  background-color: hsl(277, 64%, 30%);
+  margin-right: auto;
+  border-radius: 0 5px 5px 0;
+}
+
+.foto {
+  opacity: 0.4;
+  width: 440px;
+  height: 340px;
+  border-radius: 0 7px 7px 0;
+}
+
+p {
+  text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  margin-top: 45px;
+  padding-left: 45px;
+  margin-bottom: 9px;
+  font-size: 27px;
+  letter-spacing: 1px;
+}
+
+.text {
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 300px;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  text-align: left;
+  letter-spacing: 1px;
+  line-height: 2;
+  padding-bottom: 10px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 35px;
+}
+
+.espacio1 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 17px;
+}
+
+.espacio2 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 17px;
+}
+
+.espacio3 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 17px;
+}
+
+.espacio11 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 8px;
+  letter-spacing: 1px;
+  margin-top: 6px;
+}
+
+.espacio22 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 8px;
+  letter-spacing: 1px;
+  margin-top: 6px;
+}
+
+.espacio33 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 8px;
+  letter-spacing: 1px;
+  margin-top: 6px;
+}
+
+.texto1 {
+  padding: 15px;
+  padding-right: 60px;
+  padding-top: 10px;
+}
